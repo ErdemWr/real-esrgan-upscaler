@@ -1,6 +1,4 @@
 # Real-Esrgan-UpScaler
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/ErdemWr/real-esrgan-upscaler)
-
 An AI-powered image upscaling tool using Real-ESRGAN and PyTorch with NVIDIA CUDA acceleration. This script enhances low-resolution images by reconstructing details with deep learning.
 
 ---
